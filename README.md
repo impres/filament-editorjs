@@ -7,7 +7,8 @@
 [EditorJs](https://editorjs.io/) integration for Filament Admin/Forms.
 
 ## Impres fork?
-This is a fork because we needed an update from a package.
+This is a fork because we needed an update from the package EditorJS.
+If you use Filament 3 you dont need this fork, just use the original, it already has the update.
 
 ## Installation
 
