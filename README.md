@@ -5,13 +5,24 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/rahmanramsi/filament-editorjs.svg?style=flat-square)](https://packagist.org/packages/rahmanramsi/filament-editorjs)
 
 [EditorJs](https://editorjs.io/) integration for Filament Admin/Forms.
+## Impres fork?
+This is a fork because we needed an update from a package.
 
 ## Installation
 
 You can install the package via composer:
 
 ```bash
-composer require rahmanramsi/filament-editorjs
+"repositories": [
+        {
+            "type": "composer",
+            "url": "https://repo.packagist.com/impres/"
+        }
+    ],
+```
+
+```bash
+composer require install/filament-editorjs
 ```
 
 ## Usage
